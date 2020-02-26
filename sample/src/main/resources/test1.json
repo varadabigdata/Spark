@@ -1,0 +1,18 @@
+{
+  "bin": "400050945",
+  "lienDetails": [
+    {
+      "bin": "400050945",
+      "lienType": "03",
+      "filingDate": "04/20/2018",
+      "lienAction": "06",
+      "documentNumberReported": "2018043661",
+      "locationCode": "1211701",
+      "lienLocDesc": "SEMINOLE COUNTY CIRCUIT COURT",
+      "liabilityAmount": "1739",
+      "lienStatusCode": "FL",
+      "supplierNumber": "500496",
+      "reportedDate": "06/20/2018"
+    }
+  ]
+}
